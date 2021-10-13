@@ -127,3 +127,20 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# some results
+*Output/
+*joblog/
+result_arrays/debug/
+comparison_plots/
+debug_logs/
+*logs/
+
+# data that can be generated from fixed seeds
+data/polarized/
+data/SSBM/
+
+# others
+.vscode/
+src/__pycache__/
