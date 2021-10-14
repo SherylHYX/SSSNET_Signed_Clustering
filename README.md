@@ -1,6 +1,8 @@
 # SSSNET
 SSSNET: Semi-Supervised Signed Network Clustering
 
+For details, please read [our paper](https://arxiv.org/pdf/2110.06623.pdf).
+
 ## Environment Setup
 ### Overview
 <!-- The underlying project environment composes of following componenets: -->
