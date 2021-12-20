@@ -1,5 +1,5 @@
 # SSSNET
-SSSNET: Semi-Supervised Signed Network Clustering
+SSSNET: Semi-Supervised Signed Network Clustering (accepted by SDM2022)
 
 For details, please read [our paper](https://arxiv.org/pdf/2110.06623.pdf).
 
