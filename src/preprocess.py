@@ -143,7 +143,7 @@ def load_data(args, load_only=False, random_seed=10):
 
     feat_adj_reg = torch.FloatTensor(data.feat_adj_reg).to(device)
     feat_L = torch.FloatTensor(data.feat_L).to(device)
-    if data.feat_given is not None:
+    if hasattr(data, 'feat_given') and data.feat_given is not None:
         feat_given = torch.FloatTensor(data.feat_given).to(device)
     else:
         feat_given = None
