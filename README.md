@@ -1,7 +1,25 @@
 # SSSNET
-SSSNET: Semi-Supervised Signed Network Clustering (accepted by SDM2022)
+SSSNET: Semi-Supervised Signed Network Clustering (SDM2022)
 
 For details, please read [our paper](https://arxiv.org/pdf/2110.06623.pdf).
+
+**Citing**
+
+
+If you find SSSNET useful in your research, please consider adding the following citation:
+
+```bibtex
+@inproceedings{he2022sssnet,
+  title={SSSNET: Semi-Supervised Signed Network Clustering},
+  author={He, Yixuan and Reinert, Gesine and Wang, Songchao and Cucuringu, Mihai},
+  booktitle={Proceedings of the 2022 SIAM International Conference on Data Mining (SDM)},
+  pages={244--252},
+  year={2022},
+  organization={SIAM}
+}
+```
+
+--------------------------------------------------------------------------------
 
 ## Environment Setup
 ### Overview
