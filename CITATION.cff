@@ -24,7 +24,7 @@ preferred-citation:
   - family-names: "Cucuringu"
     given-names: "Mihai"
   doi: "10.1137/1.9781611977172.28"
-  booktitle: "Proceedings of the 2022 SIAM International Conference on Data Mining (SDM)"
+  conference: "Proceedings of the 2022 SIAM International Conference on Data Mining (SDM)"
   title: "SSSNET: Semi-Supervised Signed Network Clustering"
   year: 2022
   start: 244
