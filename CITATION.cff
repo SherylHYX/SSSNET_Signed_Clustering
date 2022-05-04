@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "Please cite our paper if you find our work useful in your research."
+title: "SSSNET: Semi-Supervised Signed Network Clustering"
+authors:
+- family-names: "He"
+  given-names: "Yixuan"
+- family-names: "Reinert"
+  given-names: "Gesine"
+- family-names: "Wang"
+  given-names: "Songchao"
+- family-names: "Cucuringu"
+  given-names: "Mihai"
+license: MIT
+url: "https://github.com/SherylHYX/SSSNET_Signed_Clustering"
+preferred-citation:
+  type: conference-paper
+  authors:
+  - family-names: "He"
+    given-names: "Yixuan"
+  - family-names: "Reinert"
+    given-names: "Gesine"
+  - family-names: "Wang"
+    given-names: "Songchao"
+  - family-names: "Cucuringu"
+    given-names: "Mihai"
+  doi: "10.1137/1.9781611977172.28"
+  journal: "Proceedings of the 2022 SIAM International Conference on Data Mining (SDM)"
+  title: "SSSNET: Semi-Supervised Signed Network Clustering"
+  year: 2022
+  start: 244
+  end: 252

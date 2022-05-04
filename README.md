@@ -10,7 +10,7 @@ If you find SSSNET useful in your research, please consider adding the following
 
 ```bibtex
 @inproceedings{he2022sssnet,
-  title={SSSNET: Semi-Supervised Signed Network Clustering},
+  title={{SSSNET: Semi-Supervised Signed Network Clustering}},
   author={He, Yixuan and Reinert, Gesine and Wang, Songchao and Cucuringu, Mihai},
   booktitle={Proceedings of the 2022 SIAM International Conference on Data Mining (SDM)},
   pages={244--252},
