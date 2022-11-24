@@ -3,6 +3,8 @@ SSSNET: Semi-Supervised Signed Network Clustering (SDM2022)
 
 For details, please read [our paper](https://arxiv.org/pdf/2110.06623.pdf).
 
+SSSNET is also implemented in the [PyTorch Geometric Signed Directed](https://github.com/SherylHYX/pytorch_geometric_signed_directed) library.
+
 **Citing**
 
 
