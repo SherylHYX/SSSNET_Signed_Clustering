@@ -7,7 +7,7 @@ texttable==1.6.3
 latextable==0.1.1
 scipy==1.11.1
 argparse==1.1.0
-scikit-learn==1.0.1
+scikit-learn==1.5.0
 # torch-sparse==0.6.9
 # torch-scatter==2.0.6
 torch-geometric==1.6.3
